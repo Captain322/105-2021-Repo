@@ -1,0 +1,14 @@
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\bin\Debug\netcoreapp3.1\PE 24 Card deck.exe
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\bin\Debug\netcoreapp3.1\PE 24 Card deck.deps.json
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\bin\Debug\netcoreapp3.1\PE 24 Card deck.runtimeconfig.json
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\bin\Debug\netcoreapp3.1\PE 24 Card deck.runtimeconfig.dev.json
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\bin\Debug\netcoreapp3.1\PE 24 Card deck.dll
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\bin\Debug\netcoreapp3.1\PE 24 Card deck.pdb
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\obj\Debug\netcoreapp3.1\PE 24 Card deck.csproj.AssemblyReference.cache
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\obj\Debug\netcoreapp3.1\PE 24 Card deck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\obj\Debug\netcoreapp3.1\PE 24 Card deck.AssemblyInfoInputs.cache
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\obj\Debug\netcoreapp3.1\PE 24 Card deck.AssemblyInfo.cs
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\obj\Debug\netcoreapp3.1\PE 24 Card deck.csproj.CoreCompileInputs.cache
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\obj\Debug\netcoreapp3.1\PE 24 Card deck.dll
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\obj\Debug\netcoreapp3.1\PE 24 Card deck.pdb
+C:\Users\Yaro\source\repos\PE 24 Card deck\PE 24 Card deck\obj\Debug\netcoreapp3.1\PE 24 Card deck.genruntimeconfig.cache
